@@ -27,3 +27,4 @@
 |**📺 Display**|VCC→3V3|GND→GND|SCL→G13|SDA→G11|
 |**🔘 Buttons**|UP→G5|DOWN→G7|OK→G7|-|
 
+![Схема](https://github.com/razeb1t/mini-reader/blob/main/photo.png)
