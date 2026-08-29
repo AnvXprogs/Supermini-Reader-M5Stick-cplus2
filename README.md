@@ -18,7 +18,7 @@
 | Кнопки | [AliExpress](https://ali.click/zmthk1m) |
 | Текстолит (двухсторонний) | [OZON](https://ozon.ru/t/EIpMMhm) |
 
- 
+ ---
 
 #### Схема подключения
 
@@ -27,3 +27,15 @@
 |**📺 Display**|VCC→3V3|GND→GND|SCL→G13|SDA→G11|
 |**🔘 Buttons**|UP→G5|DOWN→G7|OK→G7|-|
 
+---
+
+### ❓ Как прошить ❓
+
+Скачиваем три bin файла, затем переходим в Web загрузчик https://esptool.spacehuhn.com/ ,
+загружаем, прописываем адреса как показано ниже
+
+![](photo.png)
+
+нажимаем "PROGRAM" т.е. загрузить и готово)
+
+---
