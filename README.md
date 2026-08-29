@@ -49,7 +49,7 @@ const char* AP_PASS = "12345678";
 |Module|Pin 1|Pin 2|Pin 3|Pin 4|
 |--------|--------|--------|--------|--------|
 |**📺 Display**|VCC→3V3|GND→GND|SCL→G13|SDA→G11|
-|**🔘 Buttons**|UP→G5|DOWN→G7|OK→G7|-|
+|**🔘 Buttons**|UP→G5|DOWN→G7|OK→G6|-|
 
 ---
 
