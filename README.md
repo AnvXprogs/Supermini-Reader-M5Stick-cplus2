@@ -42,6 +42,6 @@ const char* AP_PASS = "12345678";
 
 ### ❓ Как прошить ❓
 
-Загружаем проект в platformIO из папки code и делаем Build, потом upload
+Загружаем проект в platformIO из папки ЛУТ и делаем Build, потом upload
 
 ---
